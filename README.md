@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **DevOps, .NET and Networking**
 
-- 📫 How to reach me **aldabbagh.harith@gmail.com**
+- 📫 You can reach me at **aldabbagh.harith@gmail.com**
 
 - ⚡ Fun fact **I love building computers too.**
 
