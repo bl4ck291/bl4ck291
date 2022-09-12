@@ -3,6 +3,12 @@
 
 - 👨‍💻 All of my projects are available at [https://harith.ru/](https://harith.ru/)
 
+- 💬 Ask me about **DevOps, react and .NET**
+
+- 📫 How to reach me **aldabbagh.harith@gmail.com**
+
+- ⚡ Fun fact **I love building computers too.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
