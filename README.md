@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [harith.ru](https://harith.ru/)
 
-- 💬 Ask me about **DevOps, .NET and Networking**
+- 💬 Ask me about **DevOps, Linux and Networking**
 
 - 📫 You can reach me at **aldabbagh.harith@gmail.com**
 
